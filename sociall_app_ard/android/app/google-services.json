@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627504207526",
+    "project_id": "socialappard",
+    "storage_bucket": "socialappard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627504207526:android:f8da0a9fde3596bb48c667",
+        "android_client_info": {
+          "package_name": "com.example.sociall_app_ard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627504207526-c3l9kbjlo974uoi9euiqvquqijad83vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcLaueK8AD-KG8qGLDVVyg4OQYyPQdeBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627504207526-c3l9kbjlo974uoi9euiqvquqijad83vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
